@@ -8,3 +8,6 @@ herhangi bir hata durumunda appi tekrar çalıştırabilirsiniz
 kaç kez deneme yapıldıgına dair sayaç eklenmiştir.
 kodları geliştirmek isteyen arkadaşlar telifsiz kullanabilir
 bol şans
+
+![Yeni Bit Eşlem Resmi](https://user-images.githubusercontent.com/76820647/130478881-9d284761-0943-42d6-a3de-568a53f2ad6a.jpg)
+
