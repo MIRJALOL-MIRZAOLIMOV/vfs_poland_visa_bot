@@ -1,0 +1,23 @@
+1653082967895	geckodriver	INFO	Listening on 127.0.0.1:52708
+1653082970960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CELAL\\AppData\\Local\\Temp\\rust_mozprofileLkJlOe"
+1653082971590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CELAL\\AppData\\Local\\Temp\\rust_mozprofileLkJlOe\\search.json.mozlz4", (void 0)))
+1653082975364	Marionette	INFO	Listening on port 52716
+1653082975778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://online.vfsglobal.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://online.vfsglobal.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653083022575	Marionette	INFO	Stopped listening on port 52716
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653083254879	geckodriver	INFO	Listening on 127.0.0.1:52909
+1653083257905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CELAL\\AppData\\Local\\Temp\\rust_mozprofileYIXlNf"
+1653083259078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CELAL\\AppData\\Local\\Temp\\rust_mozprofileYIXlNf\\search.json.mozlz4", (void 0)))
+1653083262520	Marionette	INFO	Listening on port 52917
+1653083262740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://online.vfsglobal.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://online.vfsglobal.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1653083309741	Marionette	INFO	Stopped listening on port 52917
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
